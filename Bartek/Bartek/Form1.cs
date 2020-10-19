@@ -14,7 +14,9 @@ namespace Bartek
     {
         public Form1()
         {
+            string innaZmienna = "test";
             InitializeComponent();
+            string test = "999";
         }
     }
 }
